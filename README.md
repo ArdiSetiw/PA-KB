@@ -31,7 +31,13 @@ Selain untuk memenuhi Nilai dalam Projek Akhir mata kuliah Kecerdasan Buatan, ka
 
 ## - TABLE OF CONTENT PROJECT -
 #### 1. Import Library
-Tahap pertama yang dilakukan tentu melakukan import library yang akan digunakan di dalam projek. Disini kami menggunakan beberapa library untuk menunjang Projek Akhir yang kami buat. Adapun beberapa library tersebut adalah **Matplotlib**, **Seaborn**, **Numpy** dan library lainnya yang tentu memiliki fungsi dan perannya masing - masing di dalam Projek Akhir kami ini.
+Tahap pertama yang dilakukan tentu melakukan import library yang akan digunakan di dalam projek. Disini kami menggunakan beberapa library untuk menunjang Projek Akhir yang kami buat. Adapun beberapa library tersebut adalah **Matplotlib**, **Seaborn**, **Numpy** dan library lainnya yang tentu memiliki fungsi dan perannya masing - masing di dalam Projek Akhir kami ini. Untuk library yang digunakan pada projek ini antara lain:
+#### a.) Matplotlib // Version 3.6.0
+#### b.) Seaborn // Version: 0.12.0
+#### c.) Numpy // Version: 1.23.3
+#### d.) Tensorflow // Version: 2.10.0
+#### e.) Scikit-learn // Version: 1.1.2.
+#### f.) Keras // Version: 2.10.0
 
 #### 2. Load dan Preprocessing Data
 Setelah melakukan Import terhadap beberapa library yang digunakan, tahapan selanjutnya adalah melakukan load terhadap data yang akan digunakan untuk selanjutnya dilakukan proes *Preprocessing* terhadap data tersebut. Preprocessing yang dilakukan disini mencakup **Augmentasi** dan juga **Standarisasi** terhadap data yang digunakan di dalam projek.
