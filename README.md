@@ -8,7 +8,7 @@
 ## INFO DATASET
 Dataset yang kami gunakan merupakan kumpulan data yang berisikan total 15.000 gambar sepatu, sandal, dan sepatu boot, dengan masing - masing total 5000 gambar untuk setiap kategori yang ada. Gambar yang ditampilkan memiliki resolusi sebesar 136x102 pixel dan dalam model warna RGB. Untuk akses terhadap dataset yang digunakan, dapat dilihat di link yang telah di tautkan di judul dataset.
 
-## PENJELASAN SINGKAT
+## PENJELASAN SINGKAT DATASET
 Pada dataset yang kami gunakan, terdapat total 3 kelas yang ada yaitu **Boot**, **Shoe** dan juga **Sandal** yang mana untuk masing - masing kelas berisikan total 5000 gambar di dalamnya. Namun kami membagi lagi 15000 gambar tadi ke dalam beberapa bagian yaitu
 #### 1.) Data Train sebanyak 10500 gambar
 #### 2.) Data Test sebanyak 3000 gambar
@@ -16,8 +16,10 @@ Pada dataset yang kami gunakan, terdapat total 3 kelas yang ada yaitu **Boot**, 
 Untuk gambar dataset yang telah dibagi menjadi **Train**, **Test** dan **Validation** dapat dilihat pada link Google Drive dibawah
 #### [Ini Linknya Bang](https://drive.google.com/drive/folders/1QeUahIulSz5oIlD2r4wNXdj1y81uCQu0)
 
-## TUJUAN
+## PENJELASAN SINGKAT PROJECT
 Selain untuk memenuhi Nilai dalam Projek Akhir mata kuliah Kecerdasan Buatan, kami juga ingin mengetahui apakah suatu model dapat dipelajari secara baik sehingga nantinya sistem dapat melakukan pengenalan terhadap tipe objek yang sama. Kami ingin melihat seberapa mirip tingkat prediksi yang dihasilkan dari proses pembelajaran model yang ada. Oleh karena itulah nantinya kami juga akan menggunakan data gambar asli untuk melakukan tes terhadap tingkat prediksi dalam mengidentifikasi objek yang ada.
+
+Nantinya, dari hasil pembelajaran terhadap model yang ada, sistem dapat membedakan jenis dari *Footwear* yang ditampilkan. Sistem nantinya diharapkan dapat menemukan perbedaan diantara ketiga *Footwear* yang ada dan mampu melakukan prediksi yang akurat terhadap gambar *Footwear* yang akan ditampilkan. Pada project ini, sesuai dengan judul dan dataset yang digunakan, kami membedakan kategori *Footwear* menjadi 3, yaitu Boot, Sandal dan Shoes
 
 ## Anggota Kelompok dan Pembagian Tugasnya
 [Muhammad Naufal Ihsan Maulidin // 2109106034 ](https://github.com/nafxyy)
